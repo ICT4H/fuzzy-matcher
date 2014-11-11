@@ -1,0 +1,11 @@
+.idea
+logs
+**/*.iml
+**/*.ipr
+**/*.iws
+target
+.gradle
+out
+build
+.DS_Store
+.gradletasknamecache
